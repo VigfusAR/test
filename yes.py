@@ -1,4 +1,5 @@
 import random
+from random import randint
 
 if randint(1,2) == 1:
     Aron = True
