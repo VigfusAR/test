@@ -1,4 +1,6 @@
-print("Hello Aron'!!!")
-print("Halla!")
+Aron = True
 
-svar = input("Svar her: ")
+if Aron == True:
+    print("We are the Champions for..................")
+else:
+    Aron = True
