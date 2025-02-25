@@ -1,6 +1,5 @@
 import random
-from random import randint
-
+print("skibidi Noob")
 if randint(1,2) == 1:
     Aron = True
 else:
